@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/codracula/port.git/static/css/main.073c9b0a.css",
-    "main.js": "/codracula/port.git/static/js/main.fbbc23fd.js",
-    "static/js/787.b2e1b36e.chunk.js": "/codracula/port.git/static/js/787.b2e1b36e.chunk.js",
-    "static/media/logo.svg": "/codracula/port.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/codracula/port.git/index.html",
-    "main.073c9b0a.css.map": "/codracula/port.git/static/css/main.073c9b0a.css.map",
-    "main.fbbc23fd.js.map": "/codracula/port.git/static/js/main.fbbc23fd.js.map",
-    "787.b2e1b36e.chunk.js.map": "/codracula/port.git/static/js/787.b2e1b36e.chunk.js.map"
+    "main.css": "/port/static/css/main.073c9b0a.css",
+    "main.js": "/port/static/js/main.08490032.js",
+    "static/js/787.b2e1b36e.chunk.js": "/port/static/js/787.b2e1b36e.chunk.js",
+    "static/media/logo.svg": "/port/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/port/index.html",
+    "main.073c9b0a.css.map": "/port/static/css/main.073c9b0a.css.map",
+    "main.08490032.js.map": "/port/static/js/main.08490032.js.map",
+    "787.b2e1b36e.chunk.js.map": "/port/static/js/787.b2e1b36e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fbbc23fd.js"
+    "static/js/main.08490032.js"
   ]
 }
