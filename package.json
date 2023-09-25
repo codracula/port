@@ -1,7 +1,7 @@
 {
   "name": "port",
   "version": "0.1.0",
-  "homepage": "https://github.com/codracula/port.git",
+  "homepage": "https://codracula.github.io/port/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
